@@ -1,0 +1,697 @@
+
+.container{
+    width: 1300px;
+    outline:solid 2px black;
+    margin: auto;
+}
+.header-container{
+    width: 1200px;
+    margin: auto;
+    margin-top: 20px;
+    outline: solid 2px blue;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 75px;
+}
+.logo{
+    margin: auto;
+    margin-top: 20px;
+    height: 35px;
+    outline: auto 2px green;
+    width: 30%;}
+    
+.navigation{
+        margin: auto;
+        margin-top: 20px;
+        height: 35px;
+        outline: solid 2px green;
+        width: 50%;}
+  
+    .banner-container{
+        margin: auto;
+        width: 1200px;
+        outline: solid 2px green;
+        height: 400px;
+        margin-top: 50px;
+        margin-left: 50px; 
+        display: flex;
+        justify-content: space-between;
+    }
+    .bizland{
+        margin-top: auto;
+        margin: auto;
+        width: 600px;
+        height: 200px;
+        outline: solid 2px red;
+        margin-left: 100px;
+    }
+
+    .highlights-container{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        height: 200px;
+        width: 1200px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .h1{margin: auto;
+        margin-top: 25px;
+        outline:  solid 2px black;
+        height: 150px;
+        width: 20%;
+        display: flex;
+        justify-content: space-evenly;
+        font-size: 25px;
+        
+    }
+    .about-container{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px red;
+        width: 1200px;
+        height: 500px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .find{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px green;
+        width: 100%;
+        height: 100px;
+        flex-wrap: wrap;
+        text-align: center;
+
+    }
+    .image-text{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        width: 1100px;
+        height: 320px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .left-image{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        width: 500px;
+        height: 280px;
+        text-align: center
+
+    }
+    .right-text{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px green;
+        width: 500px;
+        height: 280px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .text{
+        margin: auto;
+        margin-top: 20px;
+        outline: auto 2px red;
+        width: 100%;
+        height: 15%;
+        text-align: center;
+    }
+
+    .statitics-container{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px red;
+        width: 1200px;
+        height: 460px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap:wrap ;
+    }
+    .text1{
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        margin-top: 20px;
+        outline: solid  2px blue;
+        width: 1100px;
+        height: 200px;
+    }
+    .text2{
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        width: 1100px;
+        height: 200px;
+    }
+    .t1{
+       height: 160px;
+        width: 45%;
+        outline: solid 2px yellow;
+        display: flex;
+        margin: auto;
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        margin-left: 30px;
+        flex-wrap: wrap;
+    }
+    .aaa{
+        margin: auto;
+        margin-top: 5px;
+        width: 100%;
+        height: 30%;
+        flex-wrap: wrap;
+        text-align: center;
+        outline: solid  2px green;
+    }
+
+    .t2{
+        margin: auto;
+        margin-top: 20px;
+        height: 160px;
+        width: 45%;
+        outline: solid  2px yellow;
+        display: flex;
+        justify-content: center;
+        margin-left: 30px;
+        flex-wrap: wrap;
+    }
+    
+    .bbb{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid  2px green;
+        height: 160px;
+        width: 20%;
+        text-align: center;
+    }
+
+    .add-container{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid  2px blue;
+        width: 1200px;
+        height: 160px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .help{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid  2px black;
+        width: 100px;
+        height: 120px;
+        text-align: center;
+    }
+
+    .services-container{
+        margin: auto;
+        margin-top: 20px;
+        height: 810px;
+        width: 1200px;
+        outline: solid 2px blue;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .check1{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid  2px red;
+        height: 150px;
+        width: 100%;
+        text-align: center;
+
+    }
+
+    .boxes{
+        margin: auto;
+        outline: solid  2px black;
+        width: 90%;
+        height: 560px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .box{
+        margin: auto;
+        margin-top: 20px;
+        width: 30%;
+        height: 40%;
+        outline: solid  2px yellow;
+        display: flex;
+        justify-content: center;
+    }
+
+    .banner2{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        height: 200px;
+        width: 1300px;
+        text-align: center;
+
+    }
+
+    .portfolio-container{
+        margin: auto;
+        margin-top: 20px;
+        width: 1200px;
+        outline: solid 2px green;
+    }
+
+    .port{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        width: 100%;
+        height: 110px;
+        text-align: center;
+
+    }
+
+    .add2{
+        margin: auto;
+        margin-top: 20px;
+        height: 810px;
+        outline: solid 2px yellow;
+        width: 1200px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .img{
+        margin-top: 20px;
+        outline: solid 2px red;
+        height: 580px;
+        width: 390px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+    }
+    .img1{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blueviolet;
+        height: 25%;
+        width: 100%;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    
+    .img2{
+        margin: auto;
+        margin-top: 5px;
+        outline: solid 2px blueviolet;
+        height: 45%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .img10{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px black;
+        height: 780px;
+        width: 390px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin-left: 15px;
+
+    }
+    .img12{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px yellow;
+        height: 20%;
+        width: 100%;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    
+    .img13{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px yellow;
+        height: 380px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .img14{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px yellow;
+        height: 20%;
+        width: 100%;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .img3{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px red;
+        height: 670px;
+        width: 390px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin-right: 0%;
+
+    }
+    .img31{
+        margin-top: 20px;
+        outline: solid 2px blue;
+        height: 20%;
+        width: 90%;
+        flex-wrap: wrap;
+        text-align: center;
+        margin-right: 0%;
+    }
+
+    
+    .img32{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        height: 20%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .img33{
+        margin-top: 20px;
+        outline: solid 2px blue;
+        height: 20%;
+        width: 90%;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .img34{
+        margin-top: 20px;
+        outline: solid 2px blue;
+        height: 20%;
+        width: 90%;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    
+    .team{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px red;
+        height: 540px;
+        width: 1200px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+    }
+    .hard{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px black;
+        height: 100px;
+        width: 100%;
+        text-align: center;
+    }
+    .photos{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px yellow;
+        height: 300px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .photo{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px green;
+        height: 260px;
+        width: 20%;
+        text-align: center;
+    }
+    .names{
+        margin: auto;
+        margin-top: 10px;
+        outline: solid 2px blue;
+        height: 50px;
+        width: 1200px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .name{
+        margin: auto;
+        margin-top: 10px;
+        outline: solid 2px green;
+        height: 30px;
+        width: 20%;
+        text-align: center;
+    }
+
+    
+
+    .check-container{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        width: 1200px;
+        height: 540px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .price{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px red;
+        width: 100%;
+        height: 100px;
+        text-align: center;
+    }
+
+    .business{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px green;
+        width: 1200px;
+        height: 350px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .free{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px yellow;
+        width: 20%;
+        height: 310px;
+        text-align: center;
+    }
+
+
+    .ask-container{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        width: 1200px;
+        height: 640px; 
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    .ask{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px red;
+        width: 100%;
+        height: 70px;
+        text-align: center;
+    }
+
+    .line{
+        margin: auto;
+        margin-top: 5px;
+        outline: solid 2px green;
+        width: 100%;
+        height: 7%;
+        text-align: center;
+    }   
+
+
+    .contact-container{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        width: 1200px;
+        height: 600px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .contact{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px red;
+        width: 100%;
+        height: 100px;
+        text-align: center;
+    } 
+    
+    .us{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        width: 100%;
+        height: 130px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .address{
+        margin: auto;
+        margin-top: 10px;
+        outline: solid 2px red;
+        width: 45%;
+        height: 110px;
+        text-align: center;
+    }
+
+
+    .address1{
+        margin: auto;
+        margin-top: 10px;
+        outline: solid 2px red;
+        width: 20%;
+        height: 110px;
+        text-align: center;
+    }
+
+    .navi{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px yellow;
+        width: 100%;
+        height: 250px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .map{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px green;
+        width: 45%;
+        height: 210px;
+
+    }
+
+
+    .join-container{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px blue;
+        width:1200px;
+        height: 100px;
+        text-align: center;
+    }
+
+    
+
+    .footer-container{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px yellow;
+        width: 1200px;
+        height: 600px;
+        display: flex;
+        justify-content:space-between ;
+        flex-wrap: wrap;
+    }
+
+    .footer-top{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px green;
+        width: 100%;
+        height: 450px;
+        display: flex;
+        justify-content:space-between ;
+    }
+
+    .land{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px black;
+        width: 21%;
+        height:410px ;
+        text-align: center;
+    }
+
+    .link{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px black;
+        width: 18%;
+        height:410px ;
+        text-align: center;
+    }
+
+    .service{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px black;
+        width: 19%;
+        height:410px ;
+        text-align: center;
+    }
+
+    .social{
+        margin: auto;
+        margin-top: 20px;
+        outline: solid 2px black;
+        width: 25%;
+        height:380px ;
+        text-align: center;
+    }
+
+    .footer-bottom{
+        margin: auto;
+        margin-top: 10px;
+        outline: solid 2px blue;
+        width: 1200px;
+        height:80px ;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .copy{
+        margin: auto;
+        margin-top: 10px;
+        outline: solid 2px red;
+        width: 45%;
+        height:60px ;
+        text-align: center;
+    }
